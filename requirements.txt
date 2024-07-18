@@ -1,0 +1,2 @@
+pyPdf2
+pttsx3
